@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "pmld3100@gmail.com",
-    "password": "15866292",
+    "email": "https://www.facebook.com/thataone307",
+    "password": "TRASHBOT507",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100085261760009",
+    "61583587555385",
     "",
     "",
     ""
@@ -27,7 +27,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "X-NiL",
+  "nickNameBot": "TRASHBOT🕷😌🕸",
   "prefix": "!",
   "database": {
     "type": "sqlite",
